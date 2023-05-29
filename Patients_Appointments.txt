@@ -1,0 +1,27 @@
+Full name: Peter Petersen
+Date of Birth: 12.12.2000
+ID: 12345678944
+22.12.2022
+15:30
+Left & Right Heart Study
+Lisa Castro
+120.50
+Cash
+Full name: Peter Petersen
+Date of Birth: 12.12.2000
+ID: 12345678944
+15.01.2023
+10:00
+Echocardiogram
+Lisa Castro
+240
+Cash
+Full name: Nick Hansen
+Date of Birth: 10.10.1995
+ID: 12345674500
+10.01.2023
+11:00
+Left & Right Heart Study
+Omer Depp
+120.50
+Credit card

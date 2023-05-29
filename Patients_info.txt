@@ -1,0 +1,20 @@
+Full name: Peter Petersen
+Date of Birth: 12.12.2000
+ID: 12345678944
+Phone: 521125454
+Address: Copenhagen St.47a
+Full name: David Borger
+Date of Birth: 12.06.2000
+ID: 01011034578
+Phone: 547896541
+Address: Viale Rubicone, 129
+Full name: Petya Zara
+Date of Birth: 22.09.1989
+ID: 12345654321
+Phone: 345789654
+Address: Lipscani #451g
+Full name: Nick Hansen
+Date of Birth: 10.10.1995
+ID: 12345674500
+Phone: 444256789
+Address: Sandmovegen #62k

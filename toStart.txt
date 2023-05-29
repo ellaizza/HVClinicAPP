@@ -1,0 +1,25 @@
+Admin
+Username: MananaHaV
+password: HaVIA
+
+Email for Java:
+javapplication22@gmail.com
+password: !java2022
+
+New Doctor:
+Bella Andersen
+amaraadepp@gmail.com
+17.11.1999
+phone: 255668985
+Add: Amagertorv st. #34
+
+New patient:
+Alica Rivero
+12.09.2001
+ID: 0100020155
+
+
+New Treatment:
+Blood-thinning medicines
+45
+150 Unit
